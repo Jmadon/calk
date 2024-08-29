@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ОННК</title>
+    <link rel="icon" sizes="180x180" href="icon.svg">
+</head>
+<body>
+    <div class="calculator">
+        <p id="nameProgram">Очередной,<br>никому не нужный<br>Калькулятор</p>
+        <p id="calk" name="calk"><span></span></p>
+        <input type="text" class="display" name="display" readonly>
+
+        <div class="buttons">
+            <button class="button clear" name="clear">C</button>
+            <button class="button" name="backspace">←</button>
+            <button class="button operator" name="divide">&divide;</button>
+
+            <button class="button" name="7">7</button>
+            <button class="button" name="8">8</button>
+            <button class="button" name="9">9</button>
+            <button class="button operator" name="multiply">×</button>
+
+            <button class="button" name="4">4</button>
+            <button class="button" name="5">5</button>
+            <button class="button" name="6">6</button>
+            <button class="button operator" name="subtract">&ndash;</button>
+
+            <button class="button" name="1">1</button>
+            <button class="button" name="2">2</button>
+            <button class="button" name="3">3</button>
+            <button class="button operator" name="add">+</button>
+
+            <button class="button" name="negative">+/-</button>
+            <button class="button" name="0">0</button>
+            <button class="button" name="dot">.</button>
+            <button class="button equals" name="equals">=</button>
+        </div>
+    </div>
+    <canvas id="canv" width="32" height="32"></canvas>
+    <script src="script.js"></script>
+</body>
+</html>
