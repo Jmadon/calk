@@ -2,7 +2,7 @@
     "name": "Не нужный калькулятор",
     "short_name": "OHHK",
     "description": "Очередной, никому не нужный Калькулятор",
-    "start_url": "https://jmadon.github.io/calk/",
+    "start_url": "https://jmadon.github.io/calk/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
