@@ -4,7 +4,11 @@
 
 Я как создатель рекомендую им не пользоваться.
 
-Интерфейс на 90% ChatGPT
-Логика Jmadon
-Фон взял отсюда:
-https://codepen.io/tmrDevelops/pen/vOPZBv
+Интерфейс на 90% ChatGPT  
+Логика Jmadon  
+Фон взял отсюда:  
+[https://codepen.io/tmrDevelops/pen/vOPZBv](https://codepen.io/tmrDevelops/pen/vOPZBv)  
+
+![Логотип проекта](icon.svg)
+
+
